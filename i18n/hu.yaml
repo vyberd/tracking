@@ -1,0 +1,6 @@
+- id: consent_notice
+  translation: "Ez az oldal sütiket használ analítikai célokra. Az oldal használatával és/vagy ennek elfogadásával hozzájárulsz ehhez."
+- id: accept
+  translation: "Elfogadom"
+- id: reject
+  translation: "Elutasítom"

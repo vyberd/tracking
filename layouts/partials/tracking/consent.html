@@ -1,3 +1,5 @@
+{{ partial "head/script" (dict "ctx" . "name" "js/popup.js") }}
+{{ partial "stylesheet" (dict "name" "css/popup.css") }}
 <div id="popup-consent" class="popup popup-notice popup-on color0">
 	<p>{{ T "consent_notice" }}</p>
 	<div class="columns is-multiline is-vcentered">
